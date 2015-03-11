@@ -18,3 +18,8 @@ While the specific topical foci will be determined by the cluster participants o
 * Facilitating discovery of and access to Earth science data and information in support of researchers
 * others ...
 
+## Anticipated Benefits
+
+The ESIP Federation has long provided a venue for the exchange of knowledge, strategies and technology between practitioners. The potential benefits to participants in the *Library Cluster* are well aligned with this general pattern within ESIP. By brining together Earth science data and information librarians (and others) into the cluster we will be able to exchange lessons learned, strategies developed, and solutions to shared problems - accelerating our work within our respective insitutions in support of Earth science data and information creation, management, preservation, discovery and use. 
+
+The broader benefit to ESIP from the creation of the Library cluster is the opportunity to increase the exchange between library practitioners and the data archive, research and applications organizations within ESIP - providing a greater degree of integration of Library needs, strategies and knowledge into the broader ESIP community. 
